@@ -41,7 +41,7 @@ dev_dependencies:
 
 flutter:
   assets:
-    - images/
+    - assets/images/
     - assets/translations/
 
 

@@ -75,7 +75,7 @@ class Login extends StatelessWidget {
                                       autofocus: true,
                                       //controller: controller.,
                                       onChanged: (value) => controller.setemail(value),
-                                      validator: (value)=> value == null || !RegExp(r"[a-z0-9\.-]+@[a-z0-9\.-]+\.[a-z]+").hasMatch(value) ? "s'il vous plait entre un email valide" : null,
+                                      //validator: (value)=> value == null || !RegExp(r"[a-z0-9\.-]+@[a-z0-9\.-]+\.[a-z]+").hasMatch(value) ? "s'il vous plait entre un email valide" : null,
                                       decoration: InputDecoration(
                                         hintText: 'Email',
                                         suffixIcon: const Icon(Icons.email),
