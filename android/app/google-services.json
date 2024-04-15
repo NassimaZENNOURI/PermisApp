@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595848904618",
+    "project_id": "permisapp-beb3e",
+    "storage_bucket": "permisapp-beb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595848904618:android:6ee87d93ed21ed608b75d3",
+        "android_client_info": {
+          "package_name": "com.example.permisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595848904618-s87jffltu0ar8bp06vvmqaeh4mjt379l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs651aIG4XibB3g07_kQej8VsEqtVopms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595848904618-s87jffltu0ar8bp06vvmqaeh4mjt379l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
